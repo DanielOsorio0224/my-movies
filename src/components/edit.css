@@ -1,0 +1,5 @@
+.edit_form .edit-container {
+    display: grid;
+    width: 70%;
+    margin-left: 40px;
+}
